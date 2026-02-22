@@ -18,10 +18,9 @@
 
 ---
 ### 📊 GitHub Stats
+![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslamawd&show_icons=true&theme=radical)
 
-![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eslamawd&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eslamawd&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamawd&layout=compact&theme=radical)
 
 ---
 
