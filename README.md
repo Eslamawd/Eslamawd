@@ -23,7 +23,7 @@
 
 ### 📊 GitHub Stats
 
-![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=EslamAwod&show_icons=true&theme=radical)
+![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eslamawd&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EslamAwod&layout=compact&theme=radical)
 
 ---
