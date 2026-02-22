@@ -29,5 +29,5 @@
 ---
 
 ### 🤝 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/YOUR_LINK)
-[<img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white">](https://www.upwork.com/freelancers/~YOUR_ID)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/eslam-awd-9a7b42248)
+[<img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white">](https://www.upwork.com/freelancers/~0194d51de439651705)
