@@ -1,7 +1,4 @@
-# Hi I'm Dr. Eslam Awod 👋 👨‍💻
 
-### 🎓 PhD in Computer Science | Senior Full-Stack Developer
-### 🚀 Ex-Amazon (Souq.com) Engineer
 
 - 🔭 I’m currently working on **Scalable SaaS Platforms**
 - 🌱 I’m currently learning **Advanced AI Orchestration**
@@ -24,7 +21,7 @@
 ### 📊 GitHub Stats
 
 ![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eslamawd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EslamAwod&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eslamawd&layout=compact&theme=radical)
 
 ---
 
